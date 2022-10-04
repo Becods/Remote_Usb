@@ -19,7 +19,6 @@ mv .config.example .config
 make download -j8
 make V=s -j1
 ```
-
 ## Tips
 
 1. `.config.example` 为自用，仅供参考，开启了一大堆不需要的功能
